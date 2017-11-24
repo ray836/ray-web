@@ -1,0 +1,114 @@
+.header {
+  width: 100%;
+  height: 400px;
+  background-position: left center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url("https://www.hdwallpapers.in/walls/roaring_lion-wide.jpg");
+  display: block;
+  min-width: 750px;
+}
+/*http://s1.picswalls.com/wallpapers/2014/02/07/lion-image_01582298_22.jpg*/
+.header-title {
+  font-family: "proxima-nova", Arial, "Lucida Grande", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #FFF;
+  width: 100%;
+  display: block;
+  margin: 0px;
+  line-height: 400px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  margin-top: 0;
+}
+
+.main-nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+.main-nav li {
+  float: left;
+  font-size: 15px;
+  font-weight: 200;
+}
+.main-nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+.sm-text {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 20px;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 100;
+}
+.challenge {
+  width: 100%;
+  background-position: left center;
+  background-size: 100%;
+
+
+  display: block;
+  min-width: 750px;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.challenge p {
+  font-size: 25px;
+}
+/*.challenge ul li {*/
+  /*float: left;*/
+  /*font-size: 15px;*/
+  /*font-weight: 200;*/
+/*}*/
+.ep {
+  width: 100%;
+  height: 100%;
+  min-height: 100px;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: relative;
+  padding: 20px 0;
+}
+.challenge1 {
+   color: #FFFFFF;
+   background-image: url("../../assets/images/leafs.png");
+   text-shadow: 1px 1px 2px #000000;
+ }
+.challenge2 {
+  color: #FFFFFF;
+  background-image: url("../../assets/images/pinkflowers.png");
+  text-shadow: 1px 1px 2px #000000;
+}
+.challenge3 {
+  color: #FFFFFF;
+  background-image: url("../../assets/images/fungi.png");
+  text-shadow: 1px 1px 2px #000000;
+}
+.challenge4 {
+  color: #FFFFFF;
+  background-image: url("../../assets/images/school-background.png");
+  text-shadow: 1px 1px 2px #000000;
+}
+.challenge5 {
+  color: #FFFFFF;
+  background-image: url("../../assets/images/morefungi.png");
+  text-shadow: 1px 1px 2px #000000;
+}

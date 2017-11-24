@@ -7,11 +7,11 @@ const bodyParser = require('body-parser');
 
 // mongoose
 
-const mongoose = require('mongoose');
+// const mongoose = require('mongoose');
 
-mongoose.Promise = global.Promise;
+// mongoose.Promise = global.Promise;
 
-mongoose.connect('70.58.110.157:27017/reference');
+// mongoose.connect('70.58.110.157:27017/reference');
 
 // Get our API routes
 // const appRoutes = require('./server/routes/app');
